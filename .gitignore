@@ -131,8 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-prodenv
-config
+
 blogenv
 # Spyder project settings
 .spyderproject
